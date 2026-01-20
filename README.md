@@ -40,10 +40,12 @@ Meu objetivo atual é consolidar-me como **Desenvolvedor Full Stack** com foco f
 
 ### 📊 Minhas Estatísticas
 
+### 📊 Minhas Estatísticas
+
 <p align="left">
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Hiago09swe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Hiago09swe&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
   />
   <img 
     height="180" 
