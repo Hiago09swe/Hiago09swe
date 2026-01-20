@@ -38,7 +38,6 @@ Meu objetivo atual é consolidar-me como **Desenvolvedor Full Stack** com foco f
 
 ---
 
-### 📊 Minhas Estatísticas
 
 ### 📊 Minhas Estatísticas
 
