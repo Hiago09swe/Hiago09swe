@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack em Formação | Engenharia de Software`**
 
-Olá! Sou o Hiago Araújo, tenho 22 anos e sou de Goiânia, GO. Com formação técnica inicial em informática e agora graduando em **Engenharia de Software**, estou em transição de uma carreira sólida em Logística para o desenvolvimento de soluções tecnológicas.
+Olá! Sou o Hiago Araújo, tenho 23 anos e sou de Goiânia, GO. Com formação técnica inicial em informática e agora graduando em **Engenharia de Software**, estou em transição de uma carreira sólida em Logística para o desenvolvimento de soluções tecnológicas.
 
 Meu objetivo atual é consolidar-me como **Desenvolvedor Full Stack** com foco futuro em **Arquitetura de Software**, projetando sistemas que resolvam problemas reais de negócio através de uma estrutura de código limpa e sustentável.
 
