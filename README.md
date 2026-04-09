@@ -1,17 +1,103 @@
+# Hiago Araújo
+
 <div align="center">
 
-```
-██╗  ██╗██╗ █████╗  ██████╗  ██████╗      █████╗ ██████╗  █████╗ ██╗   ██╗     ██╗ ██████╗ 
-██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗    ██╔══██╗██╔══██╗██╔══██╗██║   ██║     ██║██╔═══██╗
-███████║██║███████║██║  ███╗██║   ██║    ███████║██████╔╝███████║██║   ██║     ██║██║   ██║
-██╔══██║██║██╔══██║██║   ██║██║   ██║    ██╔══██║██╔══██╗██╔══██║██║   ██║██   ██║██║   ██║
-██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝    ██║  ██║██║  ██║██║  ██║╚██████╔╝╚█████╔╝╚██████╔╝
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝  ╚═════╝ 
-```
+<!-- NOME EM PIXEL ART SVG - sem dependência externa -->
+<svg width="760" height="60" viewBox="0 0 760 60" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#00D9FF">
+    <!-- H -->
+    <rect x="2" y="4" width="5" height="5"/><rect x="2" y="10" width="5" height="5"/><rect x="2" y="16" width="5" height="5"/>
+    <rect x="8" y="16" width="5" height="5"/>
+    <rect x="14" y="4" width="5" height="5"/><rect x="14" y="10" width="5" height="5"/><rect x="14" y="16" width="5" height="5"/>
+    <rect x="2" y="22" width="5" height="5"/><rect x="8" y="22" width="5" height="5"/><rect x="14" y="22" width="5" height="5"/>
+    <rect x="2" y="28" width="5" height="5"/><rect x="14" y="28" width="5" height="5"/>
+    <rect x="2" y="34" width="5" height="5"/><rect x="14" y="34" width="5" height="5"/>
+    <rect x="2" y="40" width="5" height="5"/><rect x="14" y="40" width="5" height="5"/>
+    <!-- I -->
+    <rect x="26" y="4" width="17" height="5"/>
+    <rect x="30" y="10" width="5" height="5"/><rect x="30" y="16" width="5" height="5"/>
+    <rect x="30" y="22" width="5" height="5"/><rect x="30" y="28" width="5" height="5"/><rect x="30" y="34" width="5" height="5"/>
+    <rect x="26" y="40" width="17" height="5"/>
+    <!-- A -->
+    <rect x="52" y="4" width="5" height="5"/><rect x="58" y="4" width="5" height="5"/><rect x="64" y="4" width="5" height="5"/>
+    <rect x="50" y="10" width="5" height="5"/><rect x="66" y="10" width="5" height="5"/>
+    <rect x="50" y="16" width="5" height="5"/><rect x="66" y="16" width="5" height="5"/>
+    <rect x="50" y="22" width="5" height="5"/><rect x="56" y="22" width="5" height="5"/><rect x="62" y="22" width="5" height="5"/><rect x="66" y="22" width="5" height="5"/>
+    <rect x="50" y="28" width="5" height="5"/><rect x="66" y="28" width="5" height="5"/>
+    <rect x="50" y="34" width="5" height="5"/><rect x="66" y="34" width="5" height="5"/>
+    <rect x="50" y="40" width="5" height="5"/><rect x="66" y="40" width="5" height="5"/>
+    <!-- G -->
+    <rect x="80" y="4" width="17" height="5"/>
+    <rect x="78" y="10" width="5" height="5"/><rect x="96" y="10" width="5" height="5"/>
+    <rect x="78" y="16" width="5" height="5"/>
+    <rect x="78" y="22" width="5" height="5"/><rect x="88" y="22" width="13" height="5"/>
+    <rect x="78" y="28" width="5" height="5"/><rect x="94" y="28" width="5" height="5"/>
+    <rect x="78" y="34" width="5" height="5"/><rect x="94" y="34" width="5" height="5"/>
+    <rect x="80" y="40" width="17" height="5"/>
+    <!-- O -->
+    <rect x="110" y="4" width="17" height="5"/>
+    <rect x="108" y="10" width="5" height="5"/><rect x="126" y="10" width="5" height="5"/>
+    <rect x="108" y="16" width="5" height="5"/><rect x="126" y="16" width="5" height="5"/>
+    <rect x="108" y="22" width="5" height="5"/><rect x="126" y="22" width="5" height="5"/>
+    <rect x="108" y="28" width="5" height="5"/><rect x="126" y="28" width="5" height="5"/>
+    <rect x="108" y="34" width="5" height="5"/><rect x="126" y="34" width="5" height="5"/>
+    <rect x="110" y="40" width="17" height="5"/>
+    <!-- separador -->
+    <rect x="140" y="22" width="5" height="5"/>
+    <rect x="140" y="30" width="5" height="5"/>
+    <!-- A -->
+    <rect x="156" y="4" width="5" height="5"/><rect x="162" y="4" width="5" height="5"/><rect x="168" y="4" width="5" height="5"/>
+    <rect x="154" y="10" width="5" height="5"/><rect x="170" y="10" width="5" height="5"/>
+    <rect x="154" y="16" width="5" height="5"/><rect x="170" y="16" width="5" height="5"/>
+    <rect x="154" y="22" width="5" height="5"/><rect x="160" y="22" width="5" height="5"/><rect x="166" y="22" width="5" height="5"/><rect x="170" y="22" width="5" height="5"/>
+    <rect x="154" y="28" width="5" height="5"/><rect x="170" y="28" width="5" height="5"/>
+    <rect x="154" y="34" width="5" height="5"/><rect x="170" y="34" width="5" height="5"/>
+    <rect x="154" y="40" width="5" height="5"/><rect x="170" y="40" width="5" height="5"/>
+    <!-- R -->
+    <rect x="182" y="4" width="5" height="5"/><rect x="188" y="4" width="5" height="5"/><rect x="194" y="4" width="5" height="5"/>
+    <rect x="182" y="10" width="5" height="5"/><rect x="200" y="10" width="5" height="5"/>
+    <rect x="182" y="16" width="5" height="5"/><rect x="200" y="16" width="5" height="5"/>
+    <rect x="182" y="22" width="5" height="5"/><rect x="188" y="22" width="5" height="5"/><rect x="194" y="22" width="5" height="5"/>
+    <rect x="182" y="28" width="5" height="5"/><rect x="192" y="28" width="5" height="5"/>
+    <rect x="182" y="34" width="5" height="5"/><rect x="198" y="34" width="5" height="5"/>
+    <rect x="182" y="40" width="5" height="5"/><rect x="204" y="40" width="5" height="5"/>
+    <!-- A -->
+    <rect x="216" y="4" width="5" height="5"/><rect x="222" y="4" width="5" height="5"/><rect x="228" y="4" width="5" height="5"/>
+    <rect x="214" y="10" width="5" height="5"/><rect x="230" y="10" width="5" height="5"/>
+    <rect x="214" y="16" width="5" height="5"/><rect x="230" y="16" width="5" height="5"/>
+    <rect x="214" y="22" width="5" height="5"/><rect x="220" y="22" width="5" height="5"/><rect x="226" y="22" width="5" height="5"/><rect x="230" y="22" width="5" height="5"/>
+    <rect x="214" y="28" width="5" height="5"/><rect x="230" y="28" width="5" height="5"/>
+    <rect x="214" y="34" width="5" height="5"/><rect x="230" y="34" width="5" height="5"/>
+    <rect x="214" y="40" width="5" height="5"/><rect x="230" y="40" width="5" height="5"/>
+    <!-- Ú -->
+    <rect x="244" y="4" width="5" height="5"/><rect x="256" y="4" width="5" height="5"/>
+    <rect x="244" y="10" width="5" height="5"/><rect x="256" y="10" width="5" height="5"/>
+    <rect x="244" y="16" width="5" height="5"/><rect x="256" y="16" width="5" height="5"/>
+    <rect x="244" y="22" width="5" height="5"/><rect x="256" y="22" width="5" height="5"/>
+    <rect x="244" y="28" width="5" height="5"/><rect x="256" y="28" width="5" height="5"/>
+    <rect x="246" y="34" width="13" height="5"/>
+    <rect x="246" y="40" width="5" height="5"/><rect x="254" y="40" width="5" height="5"/>
+    <rect x="252" y="0" width="4" height="4" opacity="0.8"/>
+    <!-- J -->
+    <rect x="270" y="4" width="17" height="5"/>
+    <rect x="280" y="10" width="5" height="5"/><rect x="280" y="16" width="5" height="5"/>
+    <rect x="280" y="22" width="5" height="5"/><rect x="280" y="28" width="5" height="5"/>
+    <rect x="268" y="34" width="5" height="5"/><rect x="280" y="34" width="5" height="5"/>
+    <rect x="270" y="40" width="15" height="5"/>
+    <!-- O -->
+    <rect x="300" y="4" width="17" height="5"/>
+    <rect x="298" y="10" width="5" height="5"/><rect x="316" y="10" width="5" height="5"/>
+    <rect x="298" y="16" width="5" height="5"/><rect x="316" y="16" width="5" height="5"/>
+    <rect x="298" y="22" width="5" height="5"/><rect x="316" y="22" width="5" height="5"/>
+    <rect x="298" y="28" width="5" height="5"/><rect x="316" y="28" width="5" height="5"/>
+    <rect x="298" y="34" width="5" height="5"/><rect x="316" y="34" width="5" height="5"/>
+    <rect x="300" y="40" width="17" height="5"/>
+  </g>
+</svg>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+em+Formação+🚀;Engenharia+de+Software+%7C+Goiânia%2C+GO;Arquitetura+de+Software+é+o+destino+🎯;React+%7C+Node.js+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
-</a>
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Engenharia+de+Software+%7C+Goi%C3%A2nia%2C+GO;Arquitetura+de+Software+%C3%A9+o+destino+%F0%9F%8E%AF;React+%7C+Node.js+%7C+Python+%7C+TypeScript)
 
 <br/>
 
