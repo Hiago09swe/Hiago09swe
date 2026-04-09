@@ -9,7 +9,9 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝  ╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+em+Formação+🚀;Engenharia+de+Software+%7C+Goiânia%2C+GO;Arquitetura+de+Software+é+o+destino+🎯" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+em+Formação+🚀;Engenharia+de+Software+%7C+Goiânia%2C+GO;Arquitetura+de+Software+é+o+destino+🎯;React+%7C+Node.js+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -21,9 +23,9 @@
 
 ---
 
-<img align="right" height="220" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-
 ### `> whoami`
+
+<img align="right" height="200" width="280" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ```typescript
 const hiago = {
