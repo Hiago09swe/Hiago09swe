@@ -18,7 +18,7 @@ Automação e soluções tecnológicas para empresas que querem operar com mais 
 
 Faço faculdade de Engenharia de de software em Goiânia, GO. Minha trajetória começou na logística, onde aprendi na prática como processos manuais custam tempo e dinheiro. Hoje uso tecnologia para resolver exatamente esses problemas.
 
-Em outubro de 2026 fundei a **HStack**, empresa de engenharia de software focada em automação e soluções tecnológicas sob medida.
+Em setembro de 2026 fundei a **HStack**, empresa de engenharia de software focada em automação e soluções tecnológicas sob medida.
 
 ---
 
