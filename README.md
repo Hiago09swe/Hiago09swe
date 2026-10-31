@@ -2,7 +2,7 @@
 
 # Hiago Araújo
 
-**Fundador da HStack · Estudante de Engenheiria de Software**
+**Fundador da HStack · Estudante de Engenharia de Software**
 
 Automação e soluções tecnológicas para empresas que querem operar com mais eficiência.
 
