@@ -2,7 +2,7 @@
 
 # Hiago Araújo
 
-**Fundador da HStack · Engenheiro de Software**
+**Fundador da HStack · Estudante de Engenheiria de Software**
 
 Automação e soluções tecnológicas para empresas que querem operar com mais eficiência.
 
@@ -16,7 +16,7 @@ Automação e soluções tecnológicas para empresas que querem operar com mais 
 
 ## Sobre mim
 
-Sou engenheiro de software em Goiânia, GO. Minha trajetória começou na logística, onde aprendi na prática como processos manuais custam tempo e dinheiro. Hoje uso tecnologia para resolver exatamente esses problemas.
+Faço faculdade de Engenharia de de software em Goiânia, GO. Minha trajetória começou na logística, onde aprendi na prática como processos manuais custam tempo e dinheiro. Hoje uso tecnologia para resolver exatamente esses problemas.
 
 Em outubro de 2026 fundei a **HStack**, empresa de engenharia de software focada em automação e soluções tecnológicas sob medida.
 
